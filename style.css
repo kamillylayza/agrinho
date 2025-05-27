@@ -4,6 +4,12 @@ body {
   background-color: #f0fff0;
   font-family: 'Raleway', sans-serif;
 }
+.card-img-top {
+  width: 100%;
+  height: auto;
+  max-height: 180px;
+  object-fit: contain;
+}
 
 header {
   background-color: #e0ffe0;
