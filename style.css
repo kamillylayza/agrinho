@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0fff0;
+  font-family: 'Raleway', sans-serif;
+}
+
+header {
+  background-color: #e0ffe0;
+  padding: 30px;
+  text-align: center;
+  border-bottom: 3px solid green;
+}
+
+h1, h2 {
+  font-family: 'Playwrite HU', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 40px;
+  color: green;
+}
+
+h2 {
+  font-size: 22px;
+  color: #333;
+  margin-top: 10px;
+}
+
+footer {
+  background-color: #e0ffe0;
+  padding: 20px;
+  text-align: center;
+  border-top: 3px solid green;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-family: 'Playwrite HU', sans-serif;
+}
+
+footer p {
+  margin: 0;
+  color: #333;
+  font-size: 18px;
+}
